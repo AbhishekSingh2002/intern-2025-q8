@@ -103,7 +103,7 @@ Winners:
 
 ## Results Visualization
 
-![Evaluation Results](c:\Users\Abhishek Singh\Figure_1.png)
+![Evaluation Results](evaluation_results.png)
 
 ## Notes
 
